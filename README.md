@@ -1,4 +1,4 @@
-# Replication materials (peer review)
+# Replication materials 
 
 This repository provides the data and Stata code required to reproduce the empirical results reported in the manuscript:
 **“Governance Fragmentation and Transboundary Climate Action: Environmental Decentralization, Market Integration, and Regional Collaborative Emission Reduction in China.”**
@@ -42,6 +42,6 @@ Write outputs to a relative folder (e.g., `./output/`).
 
 ## Data sources and licensing
 
-The shared dataset is a cleaned dataset constructed for analysis. Where any underlying raw inputs are subject to third‑party licensing terms, those raw inputs cannot be redistributed. Source descriptions and variable construction notes are provided in `data_dictionary.xlsx` and in the manuscript.
+The shared dataset is a cleaned dataset constructed for analysis. Source descriptions and variable construction notes are provided in `data_dictionary.xlsx` and in the manuscript.
 
 
