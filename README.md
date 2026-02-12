@@ -35,10 +35,10 @@ Recommended folder structure (optional but helpful):
    do code.do
    ```
 
-### Notes on paths (important)
+### Notes on paths 
 
 To keep the script portable, avoid hard-coded local paths such as `C:\Users\...\Desktop\...`.
-Write outputs to a relative folder (e.g., `./output/`) so that editors/referees can run the script on their machines.
+Write outputs to a relative folder (e.g., `./output/`).
 
 ## Data sources and licensing
 
