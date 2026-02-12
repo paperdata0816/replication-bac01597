@@ -3,8 +3,6 @@
 This repository provides the data and Stata code required to reproduce the empirical results reported in the manuscript:
 **“Governance Fragmentation and Transboundary Climate Action: Environmental Decentralization, Market Integration, and Regional Collaborative Emission Reduction in China.”**
 
-> **Anonymity note (peer review):** Do not include author names, affiliations, or identifying details in this repository (README, file names, code comments, or data labels/notes).
-
 ## Contents
 
 - `core data.dta` (or `coredata.dta`): cleaned province–year panel dataset (31 provinces, 2007–2023; N=527).
