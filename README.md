@@ -5,7 +5,7 @@ This repository provides the data and Stata code required to reproduce the empir
 
 ## Contents
 
-- `core data.dta` (or `coredata.dta`): cleaned province–year panel dataset (31 provinces, 2007–2023; N=527).
+- `core data.dta`: cleaned province–year panel dataset (31 provinces, 2007–2023).
 - `code.do`: Stata script to reproduce the main results (tables/figures).
 - `data_dictionary.xlsx`: variable definitions, sources, and construction notes.
 
@@ -19,7 +19,7 @@ Recommended folder structure (optional but helpful):
 
 ## Software requirements
 
-- Stata 17 or Stata 18 (recommended).
+- Stata 18 (recommended).
 - Packages used by the script: `estout` (for `esttab/eststo`).  
   Install once in Stata:
   ```
@@ -44,6 +44,4 @@ Write outputs to a relative folder (e.g., `./output/`) so that editors/referees 
 
 The shared dataset is a cleaned dataset constructed for analysis. Where any underlying raw inputs are subject to third‑party licensing terms, those raw inputs cannot be redistributed. Source descriptions and variable construction notes are provided in `data_dictionary.xlsx` and in the manuscript.
 
-## Contact during peer review
 
-For peer review, contact should be routed through the journal’s editorial office.
