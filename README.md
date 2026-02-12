@@ -1,7 +1,7 @@
 # Replication materials 
 
 This repository provides the data and Stata code required to reproduce the empirical results reported in the manuscript:
-**“Governance Fragmentation and Transboundary Climate Action: Environmental Decentralization, Market Integration, and Regional Collaborative Emission Reduction in China.”**
+
 
 ## Contents
 
